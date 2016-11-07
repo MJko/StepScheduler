@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Step Scheduler</string>
+    <string name="no_wishlist">no_wishlist</string>
+    <string name="wishlist_edit">wishlist_edit</string>
+    <string name="menu_insert">menu_insert</string>
+    <string name="menu_delete">menu_delete</string>
+
+    <string name="main_page_titlebar">Main</string>
+    <string name="wishlist_titlebar">Wishlist</string>
+    <string name="todolist_titlebar">ToDolist</string>
+    <string name="specialday_titlebar">SpecialDay</string>
+    <string name="calendar_titlebar">Calendar</string>
+    <string name="timetable_titlebar">TimeTable</string>
+    <string name="setting_titlebar">Setting</string>
+
+    <string name="wishlist_title">wishlist_title</string>
+    <string name="wishlist_body">wishlist_body</string>
+    <string name="confirm_btn">confirm_btn</string>
+    <string name="Edit">Edit</string>
+    <string name="modify">Modify</string>
 </resources>

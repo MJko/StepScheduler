@@ -14,6 +14,6 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:id="@+id/android:empty"
-        android:text="@string/no_notes"/>
+        android:text="@string/no_wishlist"/>
 
 </LinearLayout>

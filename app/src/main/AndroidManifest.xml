@@ -8,12 +8,40 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Logo_Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".App_Main_Activity"
+            android:label="@string/main_page_titlebar">
+
+        </activity>
+        <activity android:name=".WishList_Main_Activity"
+            android:label="@string/wishlist_titlebar">
+
+        </activity>
+        <activity android:name=".WishList_Edit"
+            android:label="@string/Edit">
+
+        </activity>
+        <activity android:name=".TodoList_Main_Activity"
+            android:label="@string/todolist_titlebar">
+
+        </activity>
+        <activity android:name=".TimeTable_Main_Activity"
+            android:label="@string/timetable_titlebar">
+
+        </activity>
+        <activity android:name=".SpecialDay_Main_Activity"
+            android:label="@string/specialday_titlebar">
+
+        </activity>
+        <activity android:name=".Setting_Main_Activity"
+            android:label="@string/setting_titlebar">
+
         </activity>
     </application>
 
