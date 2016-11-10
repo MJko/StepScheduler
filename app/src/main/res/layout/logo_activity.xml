@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ffff00"
+    android:background="#FEC250"
     tools:context=".Logo_Activity" >
 
     <TextView
@@ -10,8 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:textColor="#8b4513"
-        android:textSize="100sp"
-        android:text="TALK" />
+        android:text="Step Scheduler"
+        android:alpha="0.8" />
 
 </RelativeLayout>

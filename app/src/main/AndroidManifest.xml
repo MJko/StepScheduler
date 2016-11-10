@@ -23,10 +23,6 @@
             android:label="@string/wishlist_titlebar">
 
         </activity>
-        <activity android:name=".WishList_Edit"
-            android:label="@string/Edit">
-
-        </activity>
         <activity android:name=".TodoList_Main_Activity"
             android:label="@string/todolist_titlebar">
 
@@ -39,6 +35,10 @@
             android:label="@string/specialday_titlebar">
 
         </activity>
+        <activity android:name=".Calendar_Main_Activity"
+            android:label="Calendar">
+
+    </activity>
         <activity android:name=".Setting_Main_Activity"
             android:label="@string/setting_titlebar">
 

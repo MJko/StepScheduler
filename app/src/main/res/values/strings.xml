@@ -13,9 +13,15 @@
     <string name="timetable_titlebar">TimeTable</string>
     <string name="setting_titlebar">Setting</string>
 
+    <string name="action_settings">action_settings</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
     <string name="wishlist_title">wishlist_title</string>
     <string name="wishlist_body">wishlist_body</string>
     <string name="confirm_btn">confirm_btn</string>
     <string name="Edit">Edit</string>
     <string name="modify">Modify</string>
+
+    <string name="movemove_menu_settings">movemove_menu_settings</string>
 </resources>
